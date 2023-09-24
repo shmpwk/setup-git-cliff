@@ -8,7 +8,7 @@ inputs:
     required: false
   version:
     required: false
-    description: The version of git-cliff
+    description: The version of git-cliff. You can omit "v" for version tag.
     default: latest
   target-platform:
     required: false
